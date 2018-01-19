@@ -22,6 +22,7 @@ My Network
    <span class="badge"><a target="_blank" href="http://www.viadeo.com/p/0021yct25qn98614">viadeo</a></span>
    <span class="badge"><a target="_blank" href="https://www.linkedin.com/in/eric-r%C3%A9gnier-98817157/">linkedin</a></span>
    <span class="badge"><a target="_blank" href="https://www.malt.fr/profile/ericregnier">malt</a></span>
+   <span class="badge"><a target="_blank" href="https://github.com/eregnier">github</a></span>
 
 
 Presentation
