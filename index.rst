@@ -12,6 +12,11 @@ Who am I ?
 Distributed Software architect, Data analyst, Devops, Fullstack Python backend api system / ninja JS, lead dev, project manager, R&D bleeding edge technologies tester ? I think this is just called **developer**.
 
 
+.. raw:: html
+
+    <canvas style="width:100%; height:150px;" resize="true" id="canvas-1"></canvas>
+
+
 My Network
 ==========
 
@@ -49,3 +54,11 @@ In case you are looking at what I can do the best, You may know that my github a
 .. * :ref:`genindex`
 .. * :ref:`modindex`
 .. * :ref:`search`
+
+.. raw:: html
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.11.5/paper-full.min.js"></script>
+    <!--<script src="http://paperjs.org/assets/js/paper.js"></script>-->
+    <script src="_static/rhill-voronoi-core.js"></script>
+    <script src="_static/voronoi.js" type="text/paperscript" canvas="canvas-1"></script>
+
