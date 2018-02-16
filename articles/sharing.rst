@@ -14,6 +14,6 @@ I am happy and proud of my friends that have a link with IT. I always enjoy shar
 
 `Gwenaelp <https://gwenaelp.github.io>`_ he is an ex colleage travelling around the world with whome I share a lot of ideas around javascript ecosystem. He learned me a lot in modular software development where I had lacks when I started working @ `Capensis <https://capensis.fr>`_
 
-`Dyo <#>`_ She is a very conrageous student that has a degree in oneology but did not succed finding a job. So she started again some studies in IT. She is my new padawan these days.
+`Dyo <#>`_ She is a very courageous student that has a degree in oneology but did not succed finding a job. So she started again some studies in IT. She is my new padawan these days.
 
 I also spend some time on the #python-fr irc chanel and my nickname is utopman.
