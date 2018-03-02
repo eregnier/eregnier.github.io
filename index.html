@@ -48,7 +48,7 @@
     </style>
 </head>
 <body>
-    <img id="background" src="https://picsum.photos/1920/1080/?random"/>
+    <img id="background"/>
     <iframe id="mobile" src="./build/html/index.html"></iframe>
     <script>
         function fadeIn(el, display){
@@ -64,9 +64,14 @@
           })();
         };
 
-        var pic = document.getElementById('background');
-        pic.onload = function () {
-            fadeIn(pic);
+        if (window.innerWidth > 576) {
+            var pic = document.getElementById('background');
+            pic.src = 'https://picsum.photos/1920/1080/?random';
+            pic.onload = function () {
+                fadeIn(pic);
+                fadeIn(document.getElementById('mobile'));
+            }
+        } else {
             fadeIn(document.getElementById('mobile'));
         }
     </script>
