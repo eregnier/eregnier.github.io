@@ -1,1 +1,74 @@
-<meta http-equiv="refresh" content="0; url=./build/html/index.html" />
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta content="initial-scale=1.0" name="viewport">
+    <title>Eric Régnier I do code. I love technology.</title>
+    <meta name="description" content="Distributed Software architect, Data analyst, Devops, Fullstack Python backend api system / ninja JS, lead dev, project manager, R&D bleeding edge technologies tester ? I think this is just called developer">
+    <style>
+        #background {
+            opacity: 0;
+            position: absolute;
+        }
+        html, body, #background {
+            padding: 0;
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        #mobile {
+            box-shadow: 3px 3px 5px 2px grey;
+            border-radius: 6px;
+            position: absolute;
+            height: 90%;
+            top: 5%;
+            opacity: 0;
+        }
+        @media screen and (max-width: 576px) {
+            #mobile {
+                width: 100%;
+                left: 0px;
+                height: 100%;
+                top: 0px;
+            }
+        }
+        @media screen and (max-width: 768px) and (min-width: 576px) {
+            #mobile {
+                width: 70%;
+                left: 15%;
+            }
+        }
+        @media screen and (min-width: 768px) {
+            #mobile {
+                width: 40%;
+                left: 30%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <img id="background" src="https://picsum.photos/1920/1080/?random"/>
+    <iframe id="mobile" src="./build/html/index.html"></iframe>
+    <script>
+        function fadeIn(el, display){
+          el.style.opacity = 0;
+          el.style.display = display || "block";
+
+          (function fade() {
+            var val = parseFloat(el.style.opacity);
+            if (!((val += .1) > 1)) {
+              el.style.opacity = val;
+              requestAnimationFrame(fade);
+            }
+          })();
+        };
+
+        var pic = document.getElementById('background');
+        pic.onload = function () {
+            fadeIn(pic);
+            fadeIn(document.getElementById('mobile'));
+        }
+    </script>
+</body>
+</html>
