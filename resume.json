@@ -208,7 +208,7 @@
       "name": "Automated tests",
       "level": "Master",
       "keywords": [
-        "py.test",
+        "py test",
         "Jasmine",
         "Mocha"
       ]
