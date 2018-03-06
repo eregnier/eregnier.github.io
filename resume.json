@@ -1,0 +1,319 @@
+{
+  "basics": {
+    "name": "Eric Régnier",
+    "label": "Developer",
+    "picture": "https://static.utopland.net/eric.jpg",
+    "email": "utopman@gmail.com",
+    "phone": "(+33) 6 18 67 27 05 ",
+    "website": "https://eregnier.github.io",
+    "summary": "I do code, I love technology",
+    "location": {
+      "address": "",
+      "postalCode": "59139",
+      "city": "Wattignies",
+      "countryCode": "FR",
+      "region": "Haut de France"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "eregnier",
+        "url": "https://github.com/eregnier"
+      },
+      {
+        "network": "linkedin",
+        "username": "Eric Régnier",
+        "url": "https://www.linkedin.com/in/eric-r%C3%A9gnier-98817157/"
+      },
+      {
+        "network": "Viadeo",
+        "username": "Eric Régnier",
+        "url": "http://www.viadeo.com/p/0021yct25qn98614/edit"
+      },
+      {
+        "network": "Malt",
+        "username": "Eric Régnier",
+        "url": "https://www.malt.fr/profile/ericregnier?q=developpeur%20python&location=Lille&lon=3.057256000000052&lat=50.62924999999999"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Jaccede.com",
+      "position": "Developer",
+      "website": "https://jaccede.com",
+      "startDate": "2016",
+      "endDate": "today",
+      "summary": "I am developer for jaccede platform. Fullstack Backend python and frontend javascript developper. I also manage the platform using AWS. I have responsiblity to make the whole system working, scalable and evolving.",
+      "highlights": [
+        "Python backend API",
+        "PostgresSQL",
+        "AWS for platform management",
+        "Microservices",
+        "SEO",
+        "Vue JS",
+        "Angular JS",
+        "Event system : crossbar.io",
+        "System migrations",
+        "Components updating",
+        "Platform integration",
+        "Frontend bundling : Webpack / Gulp",
+        "Automated tests",
+        "Continuous integration (release often / deploy on passing tests)"
+      ]
+    },
+    {
+      "company": "Capensis",
+      "position": "Developer",
+      "website": "https://capensis.fr",
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "I developped the Canopsis open source solution. I build and maintained the software based on a python backend, an EmberJS frontend and Linus system dependencies. I mostly developped business features from user interface to database management.",
+      "highlights": [
+        "Python",
+        "Ember JS SPA ",
+        "Mongo DB",
+        "Performance optimizations",
+        "Components integration",
+        "Event system : RabbitMQ",
+        "Customer solution lifecycle management"
+      ]
+    },
+    {
+      "company": "OVH",
+      "position": "Developer",
+      "website": "https://ovh.com",
+      "startDate": "2013",
+      "endDate": "2013",
+      "summary": "I worked to improve the internal financial system using perl language. I also had the responsibility to maintain and update the internal employees management user interface.",
+      "highlights": [
+        "Core developer",
+        "Financial purposes",
+        "Angular JS",
+        "Large system evolutions"
+      ]
+    },
+    {
+      "company": "Capgemini",
+      "position": "Developer",
+      "website": "https://capgemini.com",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "I worked on Oracle solutions systems for the internal financial system. I also had many parallel tasks to develop tools for the project.",
+      "highlights": [
+        "PL/SQL",
+        "Apex",
+        "JAVA JEE",
+        "QlikView"
+      ]
+    },
+    {
+      "company": "Wid'op / Irondel / Sommer Needle Punch",
+      "position": "Student",
+      "website": "",
+      "startDate": "2008",
+      "endDate": "2011",
+      "summary": "Internships where I started discovering programmation in the real world. 10 months cumulated.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Science @ Lille 1",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2011",
+      "endDate": "2012",
+      "gpa": "",
+      "courses": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Database fundamentals",
+        "Bio computing",
+        "Combinatorial optimisation"
+      ]
+    },
+    {
+      "institution": "University of Science @ Lille 1",
+      "area": "Information Technlology",
+      "studyType": "Licence",
+      "startDate": "2009",
+      "endDate": "2010",
+      "gpa": "",
+      "courses": [
+        "Object oriented programmation",
+        "Compilation fundamentals",
+        "Databases fundamentals",
+        "English"
+      ]
+    },
+    {
+      "institution": "Gaston Berger",
+      "area": "",
+      "studyType": "Advanced technician's certificate",
+      "startDate": "2007",
+      "endDate": "2009",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "César Baggio",
+      "area": "",
+      "studyType": "Bachelor",
+      "startDate": "2004",
+      "endDate": "2005",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS / Less",
+        "Javascript / node packaging",
+        "Angular JS",
+        "Vue JS",
+        "JQuery"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Api REST",
+        "Orm (SQLAlchemy)",
+        "Micro services",
+        "Flask",
+        "Django",
+        "Ecosystem : Venv, Pip, Libs..."
+      ]
+    },
+    {
+      "name": "Continuous integration",
+      "level": "Master",
+      "keywords": [
+        "Circle CI",
+        "Travis",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Automated tests",
+      "level": "Master",
+      "keywords": [
+        "py.test",
+        "Jasmine",
+        "Mocha"
+      ]
+    },
+    {
+      "name": "Project management",
+      "level": "Master",
+      "keywords": [
+        "Trello",
+        "Agile processes",
+        "Documentation write / read",
+        "Share skills to team with pleasure ",
+        "Project costs estimation"
+      ]
+    },
+    {
+      "name": "Code quality",
+      "level": "Master",
+      "keywords": [
+        "Linters",
+        "Optimization / Performance",
+        "In search of best practices",
+        "Modular code",
+        "Git",
+        "Tooling for code coverage",
+        "Technology survey"
+      ]
+    },
+    {
+      "name": "Software architecture",
+      "level": "Master",
+      "keywords": [
+        "Distributed softwares",
+        "Docker",
+        "Deployment automation",
+        "Platform monitoring"
+      ]
+    },
+    {
+      "name": "System",
+      "level": "Various",
+      "keywords": [
+        "Linux",
+        "Docker",
+        "Ansible",
+        "Bash",
+        "Supervisor",
+        "PM2"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Various",
+      "keywords": [
+        "PostgresSQL",
+        "MongoDB",
+        "MySql",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "Various",
+      "keywords": [
+        "Python",
+        "Javascript",
+        "Bash",
+        "Rust",
+        "Java",
+        "Action Script 3",
+        "CSS",
+        "HTML",
+        "SQL",
+        "JSON",
+        "XML",
+        "Mongo query language"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Traveling",
+        "Photography",
+        "Bio sciences"
+      ]
+    },
+    {
+      "name": "Computing",
+      "keywords": [
+        "https://news.ycombinator.com/",
+        "Open source contribution : Github",
+        "Bleeding edge technologies"
+      ]
+    }
+  ],
+  "references": []
+}
