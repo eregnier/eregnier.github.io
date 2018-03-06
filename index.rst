@@ -11,8 +11,11 @@ Who am I ?
 
 Distributed Software architect, Data analyst, Devops, Fullstack Python backend api system / ninja JS, lead dev, project manager, R&D bleeding edge technologies tester ? I think this is just called **developer**.
 
+	
 
 .. raw:: html
+	
+    <h1 style="text-align:center;"><a href="/resume.html">My Resume</a></h1>
 
     <canvas style="width:100%; height:150px;" resize="true" id="canvas-1"></canvas>
 
